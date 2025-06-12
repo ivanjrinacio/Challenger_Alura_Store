@@ -11,9 +11,13 @@
 
 > Produzir um relatório sobre o desempenho das lojas do Sr. João e indicar a partir destes dados qual loja ele deve vender.
 
-<h3>Habilidades praticadas</h3>
+<h3>Habilidades, tecnologias e ferramentas utilizadas</h3>
 
 > Análise e tomada de decisão baseada em dados.
+>
+> Google Collab
+>
+> Python 
 
 <h3>Métricas analisadas</h3>
 
