@@ -91,8 +91,13 @@ As urls dos dados utilizados na análise estão no notebook.
     ```bash
     cd Challenger_Alura_Store
     ```
-3.  **Execute o Notebook:**
-    Abra o arquivo `AluraStoreBr.ipynb` no Google Colaboratory ou em qualquer ambiente Jupyter de sua preferência. As células podem ser executadas sequencialmente.
+3.  **Instale as dependências:**
+    *É recomendado criar um ambiente virtual antes deste passo.*
+    ```bash
+    pip install -r requirements.txt
+    ```
+4.  **Execute o Notebook:**
+    Abra o arquivo `AluraStoreBr.ipynb` no Google Colaboratory ou em qualquer ambiente Jupyter de sua preferência. As células podem ser executadas sequencialencialmente.
 
 ---
 
