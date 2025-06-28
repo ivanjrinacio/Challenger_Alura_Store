@@ -44,7 +44,7 @@ A análise foi focada em métricas chave para determinar o desempenho de cada lo
 
 O gráfico abaixo resume o faturamento de cada loja, destacando visualmente a performance inferior da loja recomendada.
 
-![Gráfico de Faturamento](https://github.com/ivanjrinacio/Challenger_Alura_Store/blob/ea27506f0fb1a9b24df18bd8bc3764974e012ec7/Faturamento%20de%20lojas.png)
+![Gráfico de Faturamento](https://github.com/ivanjrinacio/Challenger_Alura_Store/blob/c8df68ee0e2764e5a98823b1e5a6d85cc81ae2e4/Faturamento%20das%20Lojas.png)
 
 ---
 
