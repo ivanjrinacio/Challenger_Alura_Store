@@ -83,7 +83,7 @@ Para visualizar a análise completa, siga os passos abaixo:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Ivanildo Inácio**.
+Desenvolvido por **Ivanildo Inácio Jr**.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivanjrinacio/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ivanjrinacio)
