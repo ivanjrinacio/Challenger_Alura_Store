@@ -1,6 +1,6 @@
 # Challenger Alura Store 🏪
 
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-blue?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-blue?logo=matplotlib)
@@ -20,6 +20,7 @@ O Sr. João, dono da rede de e-commerce **Alura Store**, deseja vender uma de su
 * **Linguagem:** Python
 * **Bibliotecas:**
     * `Pandas` para manipulação e análise dos dados.
+    * `NumPy` para análise dos dados.
     * `Matplotlib` para visualização e criação dos gráficos.
 * **Ambiente:** Google Colab
 
@@ -38,7 +39,7 @@ A análise foi focada em métricas chave para determinar o desempenho de cada lo
 
 ### Resultados
 
-**A principal conclusão da análise é que a Loja 4 deve ser a escolhida para a venda.** Isso se baseia nos seguintes pontos:
+**A principal conclusão da análise é que a LOJA 4 deve ser a escolhida para a venda.** Isso se baseia nos seguintes pontos:
 * Menor faturamento comparado às outras.
 * Avaliações médias de clientes consistentemente mais baixas.
 
@@ -87,7 +88,7 @@ Para visualizar a análise completa, siga os passos abaixo:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Ivanildo Inácio Jr**.
+Desenvolvido por **Ivan Jr Inacio**.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivanjrinacio/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ivanjrinacio)
