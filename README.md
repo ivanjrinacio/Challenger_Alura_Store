@@ -38,13 +38,17 @@ A análise foi focada em métricas chave para determinar o desempenho de cada lo
 
 ### Resultados
 
-**A principal conclusão da análise é que a Loja XXX deve ser a escolhida para a venda.** Isso se baseia nos seguintes pontos:
+**A principal conclusão da análise é que a Loja 4 deve ser a escolhida para a venda.** Isso se baseia nos seguintes pontos:
 * Menor faturamento comparado às outras.
 * Avaliações médias de clientes consistentemente mais baixas.
 
 O gráfico abaixo resume o faturamento de cada loja, destacando visualmente a performance inferior da loja recomendada.
 
-![Gráfico de Faturamento](https://github.com/ivanjrinacio/Challenger_Alura_Store/blob/c8df68ee0e2764e5a98823b1e5a6d85cc81ae2e4/Faturamento%20das%20Lojas.png)
+![Gráfico de Faturamento](https://github.com/ivanjrinacio/Challenger_Alura_Store/blob/5c0fa89f32f97eaaf23310b6a22aa0de3a9dbd91/Faturamento%20das%20Lojas.png)
+
+Enquanto que neste outro gráfico a loja 4 é apenas a terceira melhor avaliada pelos clientes.
+
+![Gráfico de Avaliação da Loja](https://github.com/ivanjrinacio/Challenger_Alura_Store/blob/5c0fa89f32f97eaaf23310b6a22aa0de3a9dbd91/Avalia%C3%A7%C3%A3o%20das%20notas%20das%20lojas.png)
 
 ---
 
