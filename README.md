@@ -5,14 +5,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-blue?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-blue?logo=matplotlib)
 
-> Repositório criado para o desafio prático do curso **Tech Foundation - Data Science** (One Oracle Next Education - Alura).
-
 ---
 
 ## 🎯 Sobre o Projeto
 
 O Sr. João, dono da rede de e-commerce **Alura Store**, deseja vender uma de suas quatro lojas para investir em um novo negócio. O objetivo deste projeto é analisar o desempenho de cada loja e, com base nos dados, gerar um relatório que indique qual delas representa a melhor candidata para a venda, ou seja, a que possui o menor desempenho geral.
 
+> Repositório criado para o desafio prático do curso **Tech Foundation - Data Science** (One Oracle Next Education - Alura).
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -45,13 +44,21 @@ A análise foi focada em métricas chave para determinar o desempenho de cada lo
 
 O gráfico abaixo resume o faturamento de cada loja, destacando visualmente a performance inferior da loja recomendada.
 
-![Gráfico de Faturamento](https://github.com/ivanjrinacio/Challenger_Alura_Store/blob/5c0fa89f32f97eaaf23310b6a22aa0de3a9dbd91/Faturamento%20das%20Lojas.png)
+![Gráfico de Faturamento](assets/Faturamento%20das%20Lojas.png)
 
 Enquanto que neste outro gráfico a loja 4 é apenas a terceira melhor avaliada pelos clientes.
 
-![Gráfico de Avaliação da Loja](https://github.com/ivanjrinacio/Challenger_Alura_Store/blob/5c0fa89f32f97eaaf23310b6a22aa0de3a9dbd91/Avalia%C3%A7%C3%A3o%20das%20notas%20das%20lojas.png)
+![Gráfico de Avaliação da Loja](assets/Avalia%C3%A7%C3%A3o%20das%20notas%20das%20lojas.png)
 
 ---
+
+## 💡 Principais Insights
+Com base na análise, foram extraídas as seguintes conclusões:
+
+*📈 **Performance de Vendas Consistente:** O mix de produtos campeões de venda é similar entre as lojas, indicando uma estratégia de catálogo bem definida para a rede. O diferencial de desempenho não reside nos produtos oferecidos, mas em outros fatores específicos de cada loja.
+
+*👥 **Satisfação do Cliente como Fator Crítico:** Apesar de todas as lojas manterem um padrão de qualidade com boas avaliações, a Loja 4 apresenta a segunda menor média. Essa pequena, porém consistente, diferença na satisfação do cliente é um forte indicador de problemas operacionais ou de mercado local que impactam diretamente seu faturamento.
+
 
 ## 📁 Estrutura dos Dados
 
@@ -74,15 +81,18 @@ O conjunto de dados utilizado contém informações detalhadas sobre as vendas, 
 
 ## 🚀 Como Executar o Projeto
 
-Para visualizar a análise completa, siga os passos abaixo:
+As urls dos dados utilizados na análise estão no notebook.
 
-1.  Clone este repositório:
+1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/ivanjrinacio/Challenger_Alura_Store.git](https://github.com/ivanjrinacio/Challenger_Alura_Store.git)
     ```
-2.  Abra o arquivo `.ipynb` no Google Colaboratory.
-3.  Certifique-se de que o arquivo de dados (`.csv`) esteja na mesma pasta ou forneça o caminho correto no notebook.
-4.  Execute as células do notebook sequencialmente.
+2.  **Acesse a pasta do projeto:**
+    ```bash
+    cd Challenger_Alura_Store
+    ```
+3.  **Execute o Notebook:**
+    Abra o arquivo `AluraStoreBr.ipynb` no Google Colaboratory ou em qualquer ambiente Jupyter de sua preferência. As células podem ser executadas sequencialmente.
 
 ---
 
